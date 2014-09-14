@@ -1,0 +1,9 @@
+<list>
+	<ball x="100" y="200" radius="100" angle="0" speed="1"/>
+	<ball x="500" y="200" radius="25" angle="180" speed="5"/>
+	<ball x="200" y="350" radius="60" angle="40" speed="10"/>
+	<ball x="500" y="400" radius="50" angle="90" speed="10"/>
+	<ball x="400" y="300" radius="20" angle="40" speed="6"/>
+	<ball x="56" y="400" radius="40" angle="90" speed="10"/>
+	<ball x="300" y="350" radius="45" angle="90" speed="5"/>
+</list>
